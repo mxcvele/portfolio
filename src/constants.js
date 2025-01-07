@@ -6,7 +6,7 @@ export const dialogueData = {
       Here is my <a href="https://github.com/mxcvele" target="_blank">GitHub</a>!`,
     "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
     "sofa-table": `That's my cozy sofa. I like to chillax here and watch shows/movies. 
-    I also love playing video games :D Follow <a href="https://www.twitch.tv/mxcvele" target="_blank">my twitch</a>! (If you like gaming)`,
+    I also love playing video games :D Follow my <a href="https://www.twitch.tv/mxcvele" target="_blank">twitch</a>! (If you like gaming)`,
     tv: `That's my TV. Lately I've been watching tech youtubers a lot recently like :
      <a href="https://www.youtube.com/@mkbhd" target="_blank">mkbhd</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
     <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a>!`,
